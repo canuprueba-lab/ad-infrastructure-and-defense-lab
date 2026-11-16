@@ -1,2 +1,1 @@
-ad-infrastructure-and-defense-lab
-Laboratorio de Active Directory en Proxmox VE: arquitectura por niveles (Tier 0/1/2), hardening con GPO, aislamiento de accesos, resiliencia Multi-DC y validación forense de eventos.
+[active-directory-lab-github-project.md](https://github.com/user-attachments/files/34930046/active-directory-lab-github-project.md)# Proyecto Active Directory: Arquitectura Multi-DC, Modelo de Seguridad por Niveles (Tier 0/1/2), Hardening y Validación Forense
